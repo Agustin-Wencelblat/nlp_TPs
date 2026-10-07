@@ -1,0 +1,51 @@
+id,categoria,text,label
+0,negacion_de_positivo,This movie was not good at all.,0
+1,negacion_de_positivo,I wouldn't call it entertaining in any way.,0
+2,negacion_de_positivo,The acting is not great and the story is not interesting.,0
+3,negacion_de_positivo,"Honestly, I did not enjoy a single minute of it.",0
+4,negacion_de_positivo,"It never manages to be funny, despite trying very hard.",0
+5,negacion_de_positivo,Nothing about this film is memorable or exciting.,0
+6,negacion_de_positivo,Not the masterpiece everyone promised. Not even close.,0
+7,negacion_de_positivo,I can't recommend this to anyone.,0
+8,negacion_de_positivo,The plot is not clever and the twist is not surprising.,0
+9,negacion_de_positivo,Not once did I feel anything for these characters.,0
+10,negacion_de_negativo,"Honestly, not bad at all.",1
+11,negacion_de_negativo,I was not disappointed in the slightest.,1
+12,negacion_de_negativo,"The film is never boring, not even for a second.",1
+13,negacion_de_negativo,There isn't a single weak performance in the cast.,1
+14,negacion_de_negativo,I didn't regret buying a ticket.,1
+15,negacion_de_negativo,Nothing about it felt forced or cheap.,1
+16,negacion_de_negativo,It's not the disaster the critics made it out to be.,1
+17,negacion_de_negativo,"No complaints from me, the two hours flew by.",1
+18,negacion_de_negativo,The ending was not predictable at all.,1
+19,negacion_de_negativo,I couldn't find anything to dislike about it.,1
+20,contraste,"The first act drags a bit, but once it gets going it is a thrilling ride.",1
+21,contraste,"Some of the dialogue is clunky, yet the performances make up for it and I left the theater smiling.",1
+22,contraste,"I expected to hate it, but it won me over completely.",1
+23,contraste,"The budget is obviously tiny and the effects look cheap, but the heart of the story shines through.",1
+24,contraste,"Critics trashed it, but I found it charming from start to finish.",1
+25,contraste,"The cinematography is gorgeous, but the story is so dull that I fell asleep.",0
+26,contraste,"Great cast, great director, and somehow a terrible movie.",0
+27,contraste,"It starts with a fantastic opening scene, then falls apart completely.",0
+28,contraste,"The soundtrack is lovely, but that is the only good thing I can say about it.",0
+29,contraste,"I really wanted to love this film, but it was a chore to sit through.",0
+30,sarcasmo,"Oh great, another two hours of my life I will never get back.",0
+31,sarcasmo,"Wow, what a brilliant idea to explain the entire plot in the last five minutes.",0
+32,sarcasmo,"If you love staring at your watch, this is the movie for you.",0
+33,sarcasmo,"A real masterpiece, if your standard for masterpiece is a screensaver.",0
+34,sarcasmo,"Fantastic. The villain's plan made perfect sense, said no one ever.",0
+35,sarcasmo,"I laughed so hard. Oh wait, it was supposed to be a drama.",0
+36,sarcasmo,Best sleeping pill I have ever paid for.,0
+37,sarcasmo,Truly impressive how they made a car chase this boring.,0
+38,sarcasmo,"Terrible film. It ruined every other movie for me, because nothing else compares to it.",1
+39,sarcasmo,I hate this movie for making me cry three times in the theater.,1
+40,sentimiento_implicito,I have already watched it three times and I am planning a fourth.,1
+41,sentimiento_implicito,"When the credits rolled, the whole audience stood up and applauded.",1
+42,sentimiento_implicito,I immediately called my sister and told her to go see it this weekend.,1
+43,sentimiento_implicito,I bought the soundtrack on the way home.,1
+44,sentimiento_implicito,Two hours went by and I never once looked at my phone.,1
+45,sentimiento_implicito,I walked out after forty minutes and asked for a refund.,0
+46,sentimiento_implicito,Half the theater was asleep by the second act.,0
+47,sentimiento_implicito,I checked how much time was left at least ten times.,0
+48,sentimiento_implicito,My friend and I spent the drive home trying to figure out what the point was.,0
+49,sentimiento_implicito,I will be skipping the sequel.,0

@@ -1,0 +1,12 @@
+numpy
+pandas
+scipy
+scikit-learn
+matplotlib
+nltk
+gensim>=4.4
+datasets
+torch
+transformers>=4.56
+accelerate
+pytest
