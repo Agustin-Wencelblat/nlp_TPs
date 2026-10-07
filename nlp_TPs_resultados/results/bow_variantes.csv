@@ -1,0 +1,7 @@
+variante,vocabulario,cv_accuracy,cv_desvio,test_accuracy,preprocesamiento_s
+Solo limpieza,44200,0.8462,0.0031,0.8140,7.5000
+Sin stopwords (lista NLTK completa),44064,0.8606,0.0037,0.8253,6.9000
+"Sin stopwords, conservando negaciones",44067,0.8600,0.0035,0.8255,7.2000
++ Stemming,29172,0.8544,0.0042,0.8167,89.6000
++ Lematización con POS,36107,0.8548,0.0021,0.8193,464.9000
++ Marcado de negación,55290,0.8612,0.0022,0.8303,10.7000

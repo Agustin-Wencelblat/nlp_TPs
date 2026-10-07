@@ -1,0 +1,8 @@
+{
+  "entrenamiento_s": 2.46,
+  "inferencia_s": 2.17,
+  "n_inferencia": 25000,
+  "inferencia_s_por_1000": 0.087,
+  "hardware": "CPU",
+  "variante": "+ Marcado de negación"
+}

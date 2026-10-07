@@ -1,0 +1,11 @@
+{
+  "entrenamiento_s": 787.14,
+  "inferencia_s": 103.96,
+  "n_inferencia": 25000,
+  "inferencia_s_por_1000": 4.158,
+  "hardware": "GPU (Tesla T4)",
+  "modelo": "bert-base-uncased",
+  "max_len": 256,
+  "epocas": 2,
+  "lr": 2e-05
+}

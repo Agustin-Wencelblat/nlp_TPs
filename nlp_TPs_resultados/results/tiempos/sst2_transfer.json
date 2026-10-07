@@ -1,0 +1,8 @@
+{
+  "entrenamiento_s": 0.0,
+  "inferencia_s": 75.23,
+  "n_inferencia": 25000,
+  "inferencia_s_por_1000": 3.009,
+  "hardware": "GPU (Tesla T4)",
+  "modelo": "distilbert-base-uncased-finetuned-sst-2-english"
+}

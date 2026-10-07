@@ -1,0 +1,7 @@
+{
+  "entrenamiento_s": 20.33,
+  "inferencia_s": 12.83,
+  "n_inferencia": 25000,
+  "inferencia_s_por_1000": 0.513,
+  "hardware": "CPU"
+}

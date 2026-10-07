@@ -1,0 +1,10 @@
+{
+  "entrenamiento_s": 0.0,
+  "inferencia_s": 144.63,
+  "n_inferencia": 1000,
+  "inferencia_s_por_1000": 144.627,
+  "hardware": "GPU (Tesla T4)",
+  "modelo": "Qwen/Qwen2.5-1.5B-Instruct",
+  "n_ejemplos_few_shot": 4,
+  "masa_en_etiquetas_media": 0.9998
+}
