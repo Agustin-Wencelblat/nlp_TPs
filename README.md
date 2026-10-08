@@ -2,7 +2,7 @@
 
 ¿Cuánto se gana realmente con cada salto en la historia del procesamiento del lenguaje natural, y a qué costo?
 
-Este proyecto resuelve **una misma tarea** (clasificar reseñas de películas como positivas o negativas) con siete modelos que recorren esa historia: desde contar palabras hasta un LLM sin entrenamiento. Todos se evalúan **sobre las mismas reseñas**, con intervalos de confianza, tests pareados, calibración y un conjunto de casos difíciles escrito a mano.
+Este proyecto, realizado bajo el contexto de la materia "Procesamiento del Lenguaje Natural" resuelve **una misma tarea** (clasificar reseñas de películas como positivas o negativas) con siete modelos que recorren esa historia: desde contar palabras hasta un LLM sin entrenamiento. Todos se evalúan **sobre las mismas reseñas**, con intervalos de confianza, tests pareados, calibración y un conjunto de casos difíciles escrito a mano.
 
 **Datos:** [IMDB Large Movie Review Dataset](https://huggingface.co/datasets/stanfordnlp/imdb) (Maas et al., 2011). 25.000 reseñas para entrenar, 25.000 para evaluar, clases balanceadas, y 50.000 reseñas adicionales sin etiqueta.
 
